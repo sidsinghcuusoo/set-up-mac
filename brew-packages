@@ -20,6 +20,7 @@ pyenv-virtualenv
 # Other
 node
 docker-compose
+openjdk@11
 # Cloud tools
 awscli
 aws-sam-cli
