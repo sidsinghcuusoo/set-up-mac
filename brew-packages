@@ -16,9 +16,10 @@ git
 pyenv
 pyenv-virtualenv
 # Jenv
-jenv
+#jenv
 # Other
 node
+docker-compose
 # Cloud tools
 awscli
 aws-sam-cli
