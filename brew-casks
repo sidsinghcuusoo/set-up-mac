@@ -1,14 +1,16 @@
-# Dev tools
+##Dev tools
 docker
 sourcetree
-# Terminal
-hyper
-# Productivity
+## Terminal
+#hyper
+iterm2
+## Productivity
 # microsoft-office
-microsoft-edge
-# microsoft-teams
-# zoom
-# slack
+notion
+#microsoft-edge
+#microsoft-teams
+zoom
+slack
 # alfred
 google-chrome
 # firefox
@@ -19,7 +21,7 @@ visual-studio-code
 # dbeaver-community
 # rstudio
 # azure-data-studio
-# sublime-text
+sublime-text
 pycharm-ce
 # intellij-idea-ce
 # Cloud tools
@@ -29,7 +31,8 @@ pycharm-ce
 # tableau
 # figma
 # Misc
-spotify
+#spotify
+ytmdesktop-youtube-music
 # qgis
 # postman
 drawio
