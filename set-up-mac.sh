@@ -12,7 +12,7 @@ printf "Install XCode"
 xcode-select --install
 read -n 1 -s -p "Install XCode dialog requested. Install and then press any key to continue..."
 
-readarray PACKAGES < < <(grep -v '^#' < ./brew-packages)
+readarray PACKAGES < <(grep -v '^#' < ./brew-packages)
 readarray CASKS < <(grep -v '^#' < ./brew-casks)
 readarray FONTS < <(grep -v '^#' < ./brew-fonts)
 readarray VSCODE_EXTENSIONS < <(grep -v '^#' < ./vscode-extensions)
